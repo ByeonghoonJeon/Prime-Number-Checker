@@ -1,1 +1,1 @@
-# Simple-Practice-Repo
+# Prime number checker
