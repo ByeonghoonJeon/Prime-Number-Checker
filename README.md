@@ -7,7 +7,7 @@ Also it shows which numbers can divide the number that you are enquiring.
 1. Input myterious number to figure out whether it is a prime number or not!
 
 If it is a prime number, it will exhibit "n is a prime number"
-or not, it will exhibit numbers that can divided 'n' without remainder.
+or not, it will exhibit numbers that can divide 'n' without remainder.
 
 # How it works
 
